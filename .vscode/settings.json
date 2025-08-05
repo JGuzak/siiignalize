@@ -1,0 +1,21 @@
+{
+    "Lua.diagnostics.globals": [
+        "grid_size_x",
+        "grid_size_y",
+        "grid_led",
+        "grid_refresh",
+        "grid_led_all",
+        "midi_note_off",
+        "midi_note_on",
+        "linlin",
+        "round",
+        "metro",
+        "get_time",
+        "clamp",
+        "grid_led_get"
+    ],
+    "Lua.diagnostics.disable": [
+        "lowercase-global"
+    ],
+    "editor.inlineSuggest.enabled": false
+}
